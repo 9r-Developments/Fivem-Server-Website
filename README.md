@@ -35,7 +35,7 @@ This is the official website for a FiveM server. The server aims to provide play
 
     ```bash
     git clone https://github.com/9r-developments/fivem-server-website.git
-    cd 9rdevelopments-website
+    cd fivem-server-website
     ```
 
 2.  **Install dependencies**
