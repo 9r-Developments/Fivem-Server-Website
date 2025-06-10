@@ -1,4 +1,4 @@
-# 9r-Developments Website
+# Fivem Server Website
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=for-the-badge&logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite)
@@ -34,7 +34,7 @@ This is the official website for a FiveM server. The server aims to provide play
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/9rdevelopments-website.git
+    git clone https://github.com/9r-developments/fivem-server-website.git
     cd 9rdevelopments-website
     ```
 
